@@ -1,0 +1,8 @@
+{
+    "description": "subproject", 
+    "version": "0.0.0",
+    "name": "Lorem",
+    "title": "Lorem Ipsum", 
+    "devDependencies": {
+    }
+}
